@@ -34,3 +34,6 @@ Open `index.html` in any modern browser (Chrome, Firefox, Edge, Safari).
 
 ## Contributing
 Issues and pull requests are welcome. Ideas include metronomes, visualizers, multi-track recording, or accessibility improvements.
+
+## Site
+visit: https://upaks.github.io/Drum-Kit/
